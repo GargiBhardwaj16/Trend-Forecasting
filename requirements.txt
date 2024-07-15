@@ -1,8 +1,8 @@
-streamlit
-pandas
-seaborn
-matplotlib
-statsmodels
-tensorflow
-pillow
-scikit-learn
+streamlit==1.20.0
+pandas==1.5.3
+seaborn==0.12.1
+matplotlib==3.6.2
+statsmodels==0.13.5
+tensorflow==2.11.0
+pillow==9.3.0
+scikit-learn==1.1.3
