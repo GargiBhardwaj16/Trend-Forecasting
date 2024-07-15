@@ -1,5 +1,5 @@
 # Trend-Forecasting
 
-![Home Page](Image1.png)
+![Home Page](Streamlit - 1.mp4)
 
 *Caption: Discover the latest trends at a glance.*
