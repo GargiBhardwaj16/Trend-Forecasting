@@ -1,4 +1,4 @@
-# Trend-Forecasting
+## Trend-Forecasting
 
 ![Home Page](Image1.png)
 
